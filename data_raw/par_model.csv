@@ -1,0 +1,9 @@
+"VARIABLE","LABEL","MEAN","ST.DEV","MIN","MAX","MISSING_VALUE","ESTIMATE"
+"INTERCEPT","INTERCEPT",NA,NA,NA,NA,NA,7.2568
+"AGE","Age of the obligor",51,15,18,75,75,0.5908
+"EDUCATION_1","Basic education/ Student",NA,NA,NA,NA,1,2.0368
+"EDUCATION_2","Secondary education",NA,NA,NA,NA,1,2.8567
+"EDUCATION_3","Tertiary (university) education ",NA,NA,NA,NA,1,0
+"DEBT_RATIO","Remaining debt ratio",0.3436,0.2808,0,1,1,0.4261
+"MAX_DPD","Past due days in last 24 months. Maximum of all obligor's arrangmenets combined.",30,80,0,400,0,0.8245
+"MIN_M_LAST_DPD","Months since last past due. Minimum of all obligors arrangmenets combined.",7,2.64575131106459,0,24,24,-2.2365
