@@ -1,0 +1,13 @@
+PD Model Validation – Summary
+
+- The provided PD model output was reviewed using historical data.
+- Portfolio structure and risk behaviour were additionally reviewed using visual analysis.
+- Data quality issues were limited and did not materially affect conclusions.
+- Missing DPD values are associated with lower observed default rates.
+- Missing PD values show similar default behaviour to available PD values.
+- PD pools clearly separate risk: higher pools have higher default rates.
+- An increase in default rates is observed in 2024 across most pools.
+
+Conclusion:
+The model shows clear risk separation.
+No critical data quality or consistency issues were identified.
