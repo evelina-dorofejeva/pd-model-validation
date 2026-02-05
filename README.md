@@ -1,6 +1,6 @@
 # PD Model Validation
 
-This repository contains a basic validation of Probability of Default (PD) model outputs.
+This repository demonstrates a basic validation workflow for Probability of Default (PD) model outputs.
 
 ## Contents
 - Python notebooks for data checks, PD validation and visualization
